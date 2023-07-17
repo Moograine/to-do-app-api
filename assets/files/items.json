@@ -1,0 +1,50 @@
+[
+  {
+    "id": 0,
+    "title": "Complete project proposal",
+    "description": "Write a detailed proposal for the new project",
+    "deadline": "2023-07-20"
+  },
+  {
+    "id": 1,
+    "title": "Review client feedback",
+    "description": "Review and incorporate client feedback into the design",
+    "deadline": "2023-07-25"
+  },
+  {
+    "id": 2,
+    "title": "Prepare presentation slides",
+    "description": "Create slides for the upcoming client presentation",
+    "deadline": "2023-07-23"
+  },
+  {
+    "id": 3,
+    "title": "Follow up with leads",
+    "description": "Contact potential leads and schedule meetings",
+    "deadline": "2023-07-22"
+  },
+  {
+    "id": 4,
+    "title": "Research new technologies",
+    "description": "Explore and evaluate new technologies for the project",
+    "deadline": "2023-07-28"
+  },
+  {
+    "id": 5,
+    "title": "Write unit tests",
+    "description": "Develop and write unit tests for the application",
+    "deadline": "2023-07-26"
+  },
+  {
+    "id": 6,
+    "title": "Update project documentation",
+    "description": "Review and update the project documentation with recent changes",
+    "deadline": "2023-07-27"
+  },
+  {
+    "id": 7,
+    "title": "Do the laundry.",
+    "description": "It's so important.\n",
+    "deadline": "2023-07-17"
+  }
+]
